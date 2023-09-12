@@ -5,7 +5,7 @@
 
 
 <!-- Su documentación aquí -->
-# Actividad 1: Diagnóstico de aprendizajes previos (Trabajo grupal) :computer::coffee:
+# Actividad 1: Diagnóstico de aprendizajes previos (Trabajo grupal) 
 ## Objetivo: Desarrollar habilidades de pensamiento lógico y resolución de problemas.
 
 ## Ejercicio 1: El juego de la adivinanza
@@ -41,7 +41,7 @@ Para lograrlo, los estudiantes deben usar la lógica y determinar qué interrupt
 - ¿Qué es la programación orientada a objetos y cómo se utiliza en la programación?
 
 
-# Solución :notebook_with_decorative_cover: :pencil2:
+# Solución 
 
 ### Actividad de consulta
 **1.**¿Qué es la lógica de programación?
