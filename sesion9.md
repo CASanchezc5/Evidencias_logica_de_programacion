@@ -5,6 +5,8 @@
 
 
 <!-- Su documentación aquí -->
+# Actividad: Ejecicios de métodos en Java
+Resolver en parejas el ejercicio asignado por el docente
 # Ejercicios de Lógica de Programación
 ## 1. Calculadora de resistencias eléctricas
 Una resistencia eléctrica es un componente electrónico que se utiliza para limitar el flujo de corriente eléctrica en un circuito. Es decir, su función es oponerse al paso de la corriente eléctrica y disminuir su intensidad.
